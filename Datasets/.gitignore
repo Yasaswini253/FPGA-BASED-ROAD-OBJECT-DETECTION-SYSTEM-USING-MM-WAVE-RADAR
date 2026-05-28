@@ -1,0 +1,8 @@
+# zzh
+*.asv
+bak/
+result/*
+analysis/*
+
+
+!.gitkeep
