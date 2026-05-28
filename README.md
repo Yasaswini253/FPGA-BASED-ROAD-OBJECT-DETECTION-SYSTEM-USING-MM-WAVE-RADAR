@@ -73,7 +73,7 @@ To eliminate unwanted noise and improve target reliability, the CFAR (Constant F
 
 ## CFAR Detection Output
 
-<img width="546" height="534" alt="image" src="https://github.com/user-attachments/assets/f29bd755-e0c2-4b51-8a9a-5d0b23b5ab18" />
+<img width="546" height="434" alt="image" src="https://github.com/user-attachments/assets/f29bd755-e0c2-4b51-8a9a-5d0b23b5ab18" />
 
 
 The detected targets after CFAR processing represent valid radar object reflections used for further feature extraction and classification.
@@ -92,7 +92,7 @@ Point cloud processing improves environmental representation and enables object-
 
 ## Point Cloud Representation
 
-<img width="517" height="507" alt="image" src="https://github.com/user-attachments/assets/e5b277ef-78de-4ff9-bcf5-652085e4141d" />
+<img width="417" height="307" alt="image" src="https://github.com/user-attachments/assets/e5b277ef-78de-4ff9-bcf5-652085e4141d" />
 
 
 The point cloud representation converts radar detections into structured spatial information for intelligent object analysis.
@@ -134,7 +134,7 @@ The classification model achieved approximately **95% testing accuracy**, demons
 
 ## Classification Performance
 
-<img width="402" height="556" alt="image" src="https://github.com/user-attachments/assets/6d8dedf7-bbdc-4c5b-84a1-00ec55501bbe" />
+<img width="402" height="356" alt="image" src="https://github.com/user-attachments/assets/6d8dedf7-bbdc-4c5b-84a1-00ec55501bbe" />
 
 
 The confusion matrix demonstrates the effectiveness of the Logistic Regression classifier in accurately identifying multiple road object categories with high precision and reduced misclassification.
@@ -177,8 +177,8 @@ The final system provides reliable detection and classification of:
 using real-time radar-based environmental sensing.
 
 ## Final Top-View Object Detection Output
-<img width="535" height="563" alt="image" src="https://github.com/user-attachments/assets/08f7f621-e6f8-408a-9b27-dfd5468e78d6" />
-<img width="596" height="551" alt="image" src="https://github.com/user-attachments/assets/6a414ed1-87ad-4fa1-9fee-924adae799c5" />
+<img width="535" height="451" alt="image" src="https://github.com/user-attachments/assets/08f7f621-e6f8-408a-9b27-dfd5468e78d6" />
+<img width="535" height="451" alt="image" src="https://github.com/user-attachments/assets/6a414ed1-87ad-4fa1-9fee-924adae799c5" />
 
 
 The generated top-view visualization demonstrates successful object localization and classification within the radar monitoring region.
@@ -251,5 +251,5 @@ The achieved 95% classification accuracy validates the effectiveness of the prop
 
 # Author
 
-Yasaswini
+Yasaswini,
 MTech Embedded Systems
