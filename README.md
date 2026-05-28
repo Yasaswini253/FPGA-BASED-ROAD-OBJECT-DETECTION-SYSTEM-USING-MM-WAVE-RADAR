@@ -92,7 +92,7 @@ Point cloud processing improves environmental representation and enables object-
 
 ## Point Cloud Representation
 
-<img width="417" height="307" alt="image" src="https://github.com/user-attachments/assets/e5b277ef-78de-4ff9-bcf5-652085e4141d" />
+<img width="517" height="507" alt="image" src="https://github.com/user-attachments/assets/e5b277ef-78de-4ff9-bcf5-652085e4141d" />
 
 
 The point cloud representation converts radar detections into structured spatial information for intelligent object analysis.
